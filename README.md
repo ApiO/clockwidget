@@ -7,7 +7,7 @@ Welcome this is the repository of ClockWiget app. This app was created to replac
 ### Requirements ###
 
 * Windows
-* Other community or team contact
+* .NET framework 4.5 or above
 * *Optional:* VS2012 to build solution
 
 ### App usages ###
